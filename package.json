@@ -1,6 +1,6 @@
 {
   "name": "broccoli-watched-tree",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Broccoli utlility for creating Trees for directories to be watched but not generate any files.",
   "main": "index.js",
   "keywords": [
