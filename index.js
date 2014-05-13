@@ -1,5 +1,5 @@
 function WatchedTree (inputTree) {
-  if (!(this instanceof UnwatchedTree)) { return new WatchedTree(inputTree); }
+  if (!(this instanceof WatchedTree)) { return new WatchedTree(inputTree); }
 
   this.inputTree = inputTree;
   this.description = 'Watched - ' + inputTree;
