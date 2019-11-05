@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rjackson/broccoli-watched-tree.git"
+  },
+  "dependencies": {
+    "broccoli-plugin": "^1.2.0"
   }
 }
